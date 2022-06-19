@@ -1,0 +1,15 @@
+.bio{
+    padding-left: 100px;
+}
+.name{
+    padding-left: 100px;
+}
+body{
+    background-color:rgb(255, 244, 224);
+}
+hr{
+    border-style: dashed none none none;
+    border-color:rgb(35, 192, 140);
+    border-width: 2px;
+    width: 30%;
+}
